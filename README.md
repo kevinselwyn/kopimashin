@@ -1,14 +1,14 @@
-#kopimashin
+# kopimashin
 
 Script that generates a loss of $10 million for the music industry every day
 
-##Explanation
+## Explanation
 
 Shameless ripoff of a device created Peter "brokep" Sunde, co-founder of The Pirate Bay. It copies a file directly to /dev/null, thus creating a "loss" for the music industry.
 
 [https://vimeo.com/148955816](https://vimeo.com/148955816)
 
-##Usage
+## Usage
 
 ```
 Usage: bash kopimashin.sh <file> [<value>]

@@ -1,8 +1,8 @@
 #!/bin/bash
 
 count=0
-month=$(date +%m)
-day=$(date +%d)
+month=$(date +%m | bc)
+day=$(date +%d | bc)
 
 setup() {
 	trap cleanup EXIT
